@@ -1,0 +1,34 @@
+{
+  "date_archivage": "2026-10-10",
+  "declaration_createur": "Copie YouTube téléchargée avec JDownloader; transcription hindi avec Subtitle Edit et Whisper CPP.",
+  "source_video_url": null,
+  "date_telechargement": null,
+  "version_subtitle_edit": null,
+  "version_whisper_cpp": null,
+  "variante_modele_large": null,
+  "video_fournie_ou_verifiee": false,
+  "srt": {
+    "nom_joint": "Prema Kavali Full Hindi Dubbed Movie ¦ Aadi, Nassar, Brahmanandam (1080p_25fps_H264-128kbit_AAC).srt",
+    "chemin": "subtitles/hi/original/prema-kavali.hi.v1.srt",
+    "sha256": "ae46c4d9c95ffdbdb12f5df07c1d5867227caf0d87cb4305e220a0b7851e8682",
+    "octets": 162935,
+    "encodage": "UTF-8 avec BOM",
+    "conservation": "Octet pour octet; nom simplifié seulement"
+  },
+  "capture": {
+    "nom_joint": "image.png",
+    "chemin": "docs/images/subtitle-edit-whisper-cpp.png",
+    "sha256": "339c42a1bcddc1e67c3ab2184503b031a0b35bd74f089c3cfc9dc18ae8d4fb56"
+  },
+  "reglages_visibles": {
+    "engine": "Whisper CPP",
+    "backend": "CPU",
+    "input_language": "Hindi",
+    "model_label": "large (3.1 GB)",
+    "translate_to_english": false,
+    "post_processing": true,
+    "post_processing_details": null,
+    "advanced_settings": "--max-context 0 --suppress-nst --no-speech-thold 0.70"
+  },
+  "licence_preexistante_conservee": "GPL-3.0; voir docs/droits.md pour les éléments de tiers"
+}
