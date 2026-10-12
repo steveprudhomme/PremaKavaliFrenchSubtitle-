@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:01,840
+ [TELEPHONE RINGING]
+
+2
+00:00:02,720 --> 00:00:03,720
+ - Hello. - Yes, tell me.
+
+3
+00:00:04,040 --> 00:00:04,840
+ Is the work done?
+
+4
+00:00:04,960 --> 00:00:05,960
+ Has the girl been caught?
+
+5
+00:00:06,200 --> 00:00:08,200
+ No, her lover is with her.
+
+6
+00:00:08,320 --> 00:00:09,320
+ I will call you later.
+

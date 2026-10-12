@@ -6,3 +6,7 @@ subtitles/hi/original/*.srt -text
 subtitles/hi/revised/*.srt -text
 *.csv text eol=lf
 *.png binary
+archives/recuperation/fichiers/* -text
+subtitles/hi/recovered/*.srt -text
+subtitles/fr-CA/recovered/*.srt -text
+scripts/historique/** -text

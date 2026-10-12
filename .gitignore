@@ -9,5 +9,13 @@ __pycache__/
 *.wav
 *.mp3
 *.aac
+*.m4a
+*.zip
+*.7z
 *.bin
 .venv/
+
+scripts/historique/**/resultats/
+scripts/historique/**/audio/
+scripts/historique/**/traduction_progression.tsv
+scripts/historique/**/Prema_Kavali_FR_CA_COMPLET_AUTOMATIQUE_A_REVISER.srt
