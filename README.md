@@ -14,6 +14,7 @@ Steve Prud'Homme indique avoir téléchargé sa copie YouTube avec **JDownloader
 - [Rapport lisible de validation](reports/validation-hi-v1.md) et [détails JSON](reports/validation-hi-v1.json)
 - [Bilan de correction textuelle](reports/revision-hi.md), [modifications avant/après](reports/corrections-hi-v1.csv) et [passages à vérifier à l'écoute](reports/a-verifier-audio-hi.csv)
 - [Toutes les étapes réalisées, méthodes et limites](docs/etapes-realisees.md)
+- [Prochaines étapes et critères de validation — ROADMAP](ROADMAP.md)
 - [Reprise de « Vérifier le sous-titrage »](docs/historique/reprise-verifier-sous-titrage.md) et [messages accessibles](docs/historique/verifier-sous-titrage-messages.md)
 - [Archives récupérées et inventaire](archives/recuperation/README.md), [scripts historiques](scripts/historique/README.md) et [reproduction de la correction](docs/reproduire-correction.md)
 
