@@ -2,7 +2,7 @@
 
 ## 1. Préparer la vidéo
 
-Cette procédure décrit la méthode déclarée par le créateur du projet. L'URL YouTube, la chaîne et la date du téléchargement initial n'ont pas été fournies : ne pas les inventer et ne pas considérer une autre mise en ligne comme identique.
+Cette procédure décrit la méthode déclarée par le créateur du projet. L'utilisateur a ensuite fourni la [vidéo YouTube de référence](https://www.youtube.com/watch?v=q6oDYStjuI4). Les métadonnées consultées le 12 octobre 2026 indiquent RKD Studios, une publication le 8 mai 2020 et une durée de 1 h 52 min 17 s. La date du téléchargement initial reste inconnue. L'identité octet pour octet de la vidéo locale n'a pas été vérifiée.
 
 1. Vérifier que la copie et son utilisation sont autorisées; consulter [droits.md](droits.md).
 2. Lancer JDownloader 2. Copier l'URL autorisée et la coller dans le collecteur de liens (« LinkGrabber » / « Ajouter des liens », selon la langue).
@@ -36,7 +36,7 @@ Laisser la traduction anglaise désactivée pour obtenir une transcription hindi
 
 ## 3. Réviser avant de traduire
 
-Copier l'original dans `subtitles/hi/revised/prema-kavali.hi.revised.srt`. Charger cette copie et la même vidéo dans Subtitle Edit. Afficher la forme d'onde si disponible, écouter chaque réplique et corriger le texte ainsi que ses entrées/sorties. Les corrections automatiques doivent être examinées avant enregistrement.
+Une première correction textuelle existe déjà dans `subtitles/hi/revised/prema-kavali.hi.revised.srt`. Ne pas la remplacer par une copie de l'original. Charger cette version et la vidéo de référence dans Subtitle Edit. Afficher la forme d'onde si disponible, écouter chaque réplique et corriger le texte ainsi que ses entrées/sorties. Les corrections textuelles proposées doivent être examinées à l'écoute avant de les considérer comme définitives.
 
 Commencer par les 17 blocs de durée nulle ou négative identifiés dans le [rapport](../reports/validation-hi-v1.md). Ne pas leur attribuer arbitrairement une durée : écouter la scène, fusionner ou retirer uniquement si justifié. Vérifier les répétitions, chansons, silences, noms propres et changements de locuteur avec une personne comprenant le hindi.
 

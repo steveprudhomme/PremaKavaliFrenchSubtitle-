@@ -3,4 +3,6 @@
 *.py text eol=lf
 *.json text eol=lf
 subtitles/hi/original/*.srt -text
+subtitles/hi/revised/*.srt -text
+*.csv text eol=lf
 *.png binary

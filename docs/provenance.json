@@ -1,7 +1,7 @@
 {
   "date_archivage": "2026-10-10",
   "declaration_createur": "Copie YouTube téléchargée avec JDownloader; transcription hindi avec Subtitle Edit et Whisper CPP.",
-  "source_video_url": null,
+  "source_video_url": "https://www.youtube.com/watch?v=q6oDYStjuI4",
   "date_telechargement": null,
   "version_subtitle_edit": null,
   "version_whisper_cpp": null,
@@ -30,5 +30,24 @@
     "post_processing_details": null,
     "advanced_settings": "--max-context 0 --suppress-nst --no-speech-thold 0.70"
   },
-  "licence_preexistante_conservee": "GPL-3.0; voir docs/droits.md pour les éléments de tiers"
+  "licence_preexistante_conservee": "GPL-3.0; voir docs/droits.md pour les éléments de tiers",
+  "source_video_reference": {
+    "url_fournie_par_utilisateur": true,
+    "date_consultation": "2026-10-12",
+    "titre": "Prema Kavali Full Hindi Dubbed Movie | Aadi, Nassar, Brahmanandam",
+    "chaine": "RKD Studios",
+    "date_publication": "2020-05-08",
+    "duree_secondes": 6737,
+    "identite_fichier_video_local_verifiee": false,
+    "audio_ecoute": false,
+    "comparaison": "Piste hi-orig automatique consultée partiellement; erreurs manifestes, pas une référence certifiée."
+  },
+  "revision_textuelle": {
+    "date": "2026-10-12",
+    "fichier": "subtitles/hi/revised/prema-kavali.hi.revised.srt",
+    "sha256": "d33c21f70ef44023792299964e28a4714efeb89345a4c6eddf15039bd568425a",
+    "blocs_modifies": 604,
+    "horodatages_modifies": false,
+    "statut": "brouillon non validé à l’écoute"
+  }
 }

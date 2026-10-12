@@ -6,12 +6,13 @@ Projet communautaire de préparation de sous-titres **français québécois (`fr
 
 Steve Prud'Homme indique avoir téléchargé sa copie YouTube avec **JDownloader**, puis produit une première transcription hindi dans **Subtitle Edit**, avec **Whisper CPP**. Le SRT et la capture fournis sont archivés ici. La vidéo n'est pas distribuée.
 
-**Version initiale automatique, non révisée : 932 blocs, 17 erreurs de durée et 555 avertissements techniques.** La traduction française n'a pas encore commencé. Le contrôle du format ne garantit ni l'exactitude du hindi ni la synchronisation avec le film. Les anomalies restent volontairement présentes dans l'original.
+**Version initiale automatique : 932 blocs, 17 erreurs de durée et 555 avertissements techniques.** Une [première correction textuelle du hindi](subtitles/hi/revised/prema-kavali.hi.revised.srt) est maintenant disponible : orthographe, syntaxe locale, typographie et corrections de transcription déduites du contexte. **Elle n'est pas validée à l'écoute et n'est pas une version finale.** La traduction française n'a pas encore commencé. Le contrôle du format ne garantit ni l'exactitude du hindi ni la synchronisation avec le film. Les anomalies restent volontairement présentes dans l'original.
 
 - [SRT hindi initial — copie exacte](subtitles/hi/original/prema-kavali.hi.v1.srt)
 - [Capture des réglages](docs/images/subtitle-edit-whisper-cpp.png)
 - [Provenance et empreintes](docs/provenance.json)
 - [Rapport lisible de validation](reports/validation-hi-v1.md) et [détails JSON](reports/validation-hi-v1.json)
+- [Bilan de correction textuelle](reports/revision-hi.md), [modifications avant/après](reports/corrections-hi-v1.csv) et [passages à vérifier à l'écoute](reports/a-verifier-audio-hi.csv)
 
 ## Parcours recommandé
 
@@ -25,7 +26,7 @@ Steve Prud'Homme indique avoir téléchargé sa copie YouTube avec **JDownloader
 docs/                         Prérequis, procédure, provenance et capture
 scripts/validate_srt.py        Contrôle local sans dépendances Python
 subtitles/hi/original/         Source initiale immuable
-subtitles/hi/revised/          Futur hindi révisé
+subtitles/hi/revised/          Première correction textuelle, à vérifier à l'écoute
 subtitles/fr-CA/               Future traduction et glossaire
 reports/                      Constats sur le fichier initial
 media/                        Vidéo locale seulement (ignorée par Git)
