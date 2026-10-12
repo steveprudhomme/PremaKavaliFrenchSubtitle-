@@ -1,0 +1,7 @@
+Prema Kavali — contrôle ciblé
+
+Le SRT V3 préserve les dialogues et corrige UNIQUEMENT les durées négatives/nulles lorsque possible. Aucun dialogue n’a été vérifié à l’écoute ni réécrit à partir des extraits. Les fichiers audio sont des extraits du fichier fourni par l’utilisateur; la position dans le film est notée dans le CSV.
+
+Le dossier audio contient les 25 premiers passages prioritaires selon le rapport précédent. Réécouter chaque extrait dans son contexte, comparer avec la version YouTube, puis saisir la correction manuelle avant une traduction définitive.
+
+Corrections temporelles : 0; impossibles sans déplacement : 0; fichier SRT contient 1604 blocs.

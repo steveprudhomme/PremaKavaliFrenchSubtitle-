@@ -1,6 +1,6 @@
 # Traduction en français québécois
 
-Objectif : un français naturel au Québec, lisible et fidèle au ton des personnages. La traduction n'est pas encore produite. Le dossier `subtitles/fr-CA/` prépare ce travail sans présenter le hindi comme du français.
+Objectif : un français naturel au Québec, lisible et fidèle au ton des personnages. Une traduction partielle de 143 blocs a été récupérée dans `subtitles/fr-CA/recovered/`; elle reste à réviser. Elle suit les horodatages du hindi V7, pas les numéros du SRT initial de 932 blocs. Ne pas copier des traductions par numéro entre ces versions sans vérifier temps et contenu.
 
 1. Partir du hindi révisé et garder la vidéo de référence à portée de main. Consigner les passages incertains dans `subtitles/fr-CA/suivi.csv`.
 2. Créer `subtitles/fr-CA/prema-kavali.fr-CA.draft.srt` à partir de la copie révisée, puis remplacer le texte hindi progressivement. Garder initialement les horodatages; justifier les fusions et découpages dans le suivi.

@@ -1,0 +1,34 @@
+PREMA KAVALI — VERIFICATION AUTOMATIQUE DES 25 PASSAGES
+
+CONTENU
+- 25 petits extraits audio M4A sous audio/
+- CSV des positions dans le film et des textes de reference
+- Verifier-25-Passages.ps1
+
+PREREQUIS WINDOWS
+1. Subtitle Edit deja installe avec Whisper CPP cuBLAS et modele large-v2.bin.
+2. NVIDIA RTX 4070 / CUDA operationnel (confirme dans votre journal precedent).
+3. FFmpeg installe et accessible : tapez ffmpeg -version dans PowerShell.
+
+LANCEMENT
+1. Decompresser TOUT le ZIP dans C:\PremaKavali\Verifier25 (y compris le dossier audio).
+2. Dans ce dossier, ouvrir PowerShell.
+3. Tester seulement le premier extrait :
+   powershell -NoProfile -ExecutionPolicy Bypass -File .\Verifier-25-Passages.ps1 -TestPremierSeulement
+4. Si ce test fonctionne, lancer les 25 extraits :
+   powershell -NoProfile -ExecutionPolicy Bypass -File .\Verifier-25-Passages.ps1
+
+OPTION VAD (non activee par defaut)
+Il faut TELECHARGER un modele VAD compatible avec votre version de whisper.cpp.
+Ensuite, facultativement :
+   powershell -NoProfile -ExecutionPolicy Bypass -File .\Verifier-25-Passages.ps1 -VadModel "C:\chemin\vers\modele-vad.bin"
+Attention : le VAD peut rater des mots brefs et ne garantit pas une meilleure transcription.
+
+RESULTATS
+- resultats/*_whisper.srt : timecodes relatifs aux extraits
+- resultats/*_film.srt : timecodes recalés sur le film
+- resultats/comparaison_25_passages.csv : Whisper vs ancienne transcription vs YouTube
+
+Envoyer ici comparaison_25_passages.csv et, idealement, le dossier resultats compresse.
+Aucune correction des dialogues ne peut etre validee sans ecoute des passages incertains.
+Aucun SRT d'origine n'est modifie.

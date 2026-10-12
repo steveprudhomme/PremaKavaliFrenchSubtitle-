@@ -1,0 +1,2354 @@
+{
+  "file": "subtitles/hi/revised/prema-kavali.hi.revised.srt",
+  "bytes": 163953,
+  "sha256": "d33c21f70ef44023792299964e28a4714efeb89345a4c6eddf15039bd568425a",
+  "errors": [
+    {
+      "cue": 178,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 179,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 182,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 205,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 206,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 249,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 250,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 317,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 472,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 514,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 515,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 518,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 519,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 738,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 739,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 781,
+      "message": "Durée nulle ou négative"
+    },
+    {
+      "cue": 913,
+      "message": "Durée nulle ou négative"
+    }
+  ],
+  "warnings": [
+    {
+      "cue": 2,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 3,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 3,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 3,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 6,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 8,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 8,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 9,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 10,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 11,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 12,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 13,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 13,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 13,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 14,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 14,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 14,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 15,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 15,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 16,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 16,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 16,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 17,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 18,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 19,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 20,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 21,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 22,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 24,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 24,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 25,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 25,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 26,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 27,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 27,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 29,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 30,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 31,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 32,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 32,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 33,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 33,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 35,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 38,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 38,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 39,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 40,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 40,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 46,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 48,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 48,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 49,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 51,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 52,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 53,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 54,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 54,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 55,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 56,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 57,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 64,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 66,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 67,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 68,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 69,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 70,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 72,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 72,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 73,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 74,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 76,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 77,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 78,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 78,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 82,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 83,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 85,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 85,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 87,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 88,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 92,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 96,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 96,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 97,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 97,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 98,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 98,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 99,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 99,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 102,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 103,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 104,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 105,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 105,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 106,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 106,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 107,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 107,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 108,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 108,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 109,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 109,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 114,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 115,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 117,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 122,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 123,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 123,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 128,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 132,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 137,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 139,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 140,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 141,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 144,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 144,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 145,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 145,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 146,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 147,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 149,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 154,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 154,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 155,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 155,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 158,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 166,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 167,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 168,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 170,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 171,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 172,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 174,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 181,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 183,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 186,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 191,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 192,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 192,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 193,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 193,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 194,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 195,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 195,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 196,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 197,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 198,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 198,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 201,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 202,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 203,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 205,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 207,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 208,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 209,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 212,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 213,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 213,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 217,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 218,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 220,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 221,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 222,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 223,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 226,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 227,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 228,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 232,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 233,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 234,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 235,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 236,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 237,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 238,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 251,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 252,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 254,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 255,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 256,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 258,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 260,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 261,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 262,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 264,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 268,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 272,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 273,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 275,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 280,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 281,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 282,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 282,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 283,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 283,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 284,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 287,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 290,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 293,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 296,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 297,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 299,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 300,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 301,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 303,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 305,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 306,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 309,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 310,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 311,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 314,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 317,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 318,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 319,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 320,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 321,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 321,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 322,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 322,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 323,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 324,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 327,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 328,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 329,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 330,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 331,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 334,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 335,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 336,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 338,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 339,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 340,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 343,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 344,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 348,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 350,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 354,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 355,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 362,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 363,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 364,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 366,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 372,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 372,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 373,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 374,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 375,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 375,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 376,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 376,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 376,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 377,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 377,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 377,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 378,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 378,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 379,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 379,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 383,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 386,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 388,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 394,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 400,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 400,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 403,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 405,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 407,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 409,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 410,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 413,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 414,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 416,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 416,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 417,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 419,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 420,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 421,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 421,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 422,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 423,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 429,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 432,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 436,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 436,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 437,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 442,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 442,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 444,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 444,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 445,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 451,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 452,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 458,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 463,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 472,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 473,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 473,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 476,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 479,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 479,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 480,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 483,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 487,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 489,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 490,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 491,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 491,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 492,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 492,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 496,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 496,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 497,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 497,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 498,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 498,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 499,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 499,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 502,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 503,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 504,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 505,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 506,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 506,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 507,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 510,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 514,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 522,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 523,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 525,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 527,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 529,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 532,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 533,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 535,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 536,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 541,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 548,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 552,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 553,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 556,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 556,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 562,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 563,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 564,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 565,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 571,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 573,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 574,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 574,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 581,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 581,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 582,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 586,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 586,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 587,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 587,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 588,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 588,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 589,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 591,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 592,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 593,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 594,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 596,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 605,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 606,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 612,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 613,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 617,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 618,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 623,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 626,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 627,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 630,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 631,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 631,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 632,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 632,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 633,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 633,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 635,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 635,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 636,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 639,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 643,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 644,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 645,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 650,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 651,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 659,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 660,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 661,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 662,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 665,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 666,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 667,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 677,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 677,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 679,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 681,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 681,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 683,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 684,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 685,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 685,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 692,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 694,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 695,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 696,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 697,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 698,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 698,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 701,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 702,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 702,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 703,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 703,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 706,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 707,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 708,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 708,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 708,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 709,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 709,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 709,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 710,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 711,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 712,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 713,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 721,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 724,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 724,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 725,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 725,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 727,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 728,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 731,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 731,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 732,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 732,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 740,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 741,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 744,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 745,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 746,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 747,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 749,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 751,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 754,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 757,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 757,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 758,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 759,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 762,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 764,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 769,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 769,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 770,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 770,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 770,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 771,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 771,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 771,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 774,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 777,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 779,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 780,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 781,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 782,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 782,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 783,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 784,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 785,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 793,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 799,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 805,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 806,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 807,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 808,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 810,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 811,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 812,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 813,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 816,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 817,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 822,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 825,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 830,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 830,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 833,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 834,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 834,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 835,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 835,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 835,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 836,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 837,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 837,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 837,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 837,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 838,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 838,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 838,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 839,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 840,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 840,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 841,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 842,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 846,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 847,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 847,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 850,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 851,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 851,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 852,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 853,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 854,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 855,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 856,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 858,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 859,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 860,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 864,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 868,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 870,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 871,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 871,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 874,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 875,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 876,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 877,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 880,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 881,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 882,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 883,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 886,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 888,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 894,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 895,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 896,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 896,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 897,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 897,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 898,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 898,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 899,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 900,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 901,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 902,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 902,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 903,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 904,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 904,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 905,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 905,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 906,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 906,
+      "message": "Répétition possible : vérifier à l'écoute"
+    },
+    {
+      "cue": 914,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 914,
+      "message": "Vitesse supérieure à 20 caractères/seconde"
+    },
+    {
+      "cue": 921,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 922,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 925,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 926,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 927,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 929,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 930,
+      "message": "Durée hors repère 1–7 secondes"
+    },
+    {
+      "cue": 931,
+      "message": "Ligne de plus de 42 caractères"
+    },
+    {
+      "cue": 932,
+      "message": "Ligne de plus de 42 caractères"
+    }
+  ],
+  "encoding": "UTF-8 avec BOM",
+  "cues": 932,
+  "last_end_ms": 6737012,
+  "warning_counts": {
+    "Durée hors repère 1–7 secondes": 126,
+    "Ligne de plus de 42 caractères": 267,
+    "Répétition possible : vérifier à l'écoute": 56,
+    "Vitesse supérieure à 20 caractères/seconde": 118
+  }
+}

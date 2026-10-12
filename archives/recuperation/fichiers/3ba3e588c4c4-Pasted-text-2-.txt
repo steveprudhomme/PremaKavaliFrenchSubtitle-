@@ -1,0 +1,227 @@
+PS C:\Users\UTILISATEUR\Downloads\Prema Kavali Full Hindi Dubbed Movie ¦ Aadi, Nassar, Brahmanandam\Prema_Kavali_traduction_integrale_automatique_Windows> powershell -NoProfile -ExecutionPolicy Bypass -File .\Installer.ps1
+Requirement already satisfied: pip in .\.venv\Lib\site-packages (26.2.1)
+Looking in indexes: https://download.pytorch.org/whl/cu128
+Requirement already satisfied: torch>=2.2 in .\.venv\Lib\site-packages (2.11.0+cu128)
+Requirement already satisfied: filelock in .\.venv\Lib\site-packages (from torch>=2.2) (3.32.3)
+Requirement already satisfied: typing-extensions>=4.10.0 in .\.venv\Lib\site-packages (from torch>=2.2) (4.16.0)
+Requirement already satisfied: setuptools<82 in .\.venv\Lib\site-packages (from torch>=2.2) (78.1.0)
+Requirement already satisfied: sympy>=1.13.3 in .\.venv\Lib\site-packages (from torch>=2.2) (1.14.0)
+Requirement already satisfied: networkx>=2.5.1 in .\.venv\Lib\site-packages (from torch>=2.2) (3.6.1)
+Requirement already satisfied: jinja2 in .\.venv\Lib\site-packages (from torch>=2.2) (3.1.6)
+Requirement already satisfied: fsspec>=0.8.5 in .\.venv\Lib\site-packages (from torch>=2.2) (2026.7.0)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in .\.venv\Lib\site-packages (from sympy>=1.13.3->torch>=2.2) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in .\.venv\Lib\site-packages (from jinja2->torch>=2.2) (3.0.3)
+Collecting transformers==4.44.2
+  Using cached transformers-4.44.2-py3-none-any.whl.metadata (43 kB)
+Collecting sentencepiece>=0.2
+  Using cached sentencepiece-0.2.2-cp313-cp313-win_amd64.whl.metadata (34 kB)
+Collecting sacremoses>=0.1.1
+  Using cached sacremoses-0.2.0-py3-none-any.whl.metadata (8.8 kB)
+Requirement already satisfied: filelock in .\.venv\Lib\site-packages (from transformers==4.44.2) (3.32.3)
+Collecting huggingface-hub<1.0,>=0.23.2 (from transformers==4.44.2)
+  Using cached huggingface_hub-0.36.2-py3-none-any.whl.metadata (15 kB)
+Collecting numpy>=1.17 (from transformers==4.44.2)
+  Using cached numpy-2.5.3-cp313-cp313-win_amd64.whl.metadata (6.6 kB)
+Collecting packaging>=20.0 (from transformers==4.44.2)
+  Using cached packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting pyyaml>=5.1 (from transformers==4.44.2)
+  Using cached pyyaml-6.0.3-cp313-cp313-win_amd64.whl.metadata (2.4 kB)
+Collecting regex!=2019.12.17 (from transformers==4.44.2)
+  Using cached regex-2026.9.29-cp313-cp313-win_amd64.whl.metadata (41 kB)
+Collecting requests (from transformers==4.44.2)
+  Using cached requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+Collecting safetensors>=0.4.1 (from transformers==4.44.2)
+  Using cached safetensors-0.8.0-cp310-abi3-win_amd64.whl.metadata (4.2 kB)
+Collecting tokenizers<0.20,>=0.19 (from transformers==4.44.2)
+  Using cached tokenizers-0.19.1.tar.gz (321 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting tqdm>=4.27 (from transformers==4.44.2)
+  Using cached tqdm-4.70.1-py3-none-any.whl.metadata (57 kB)
+Requirement already satisfied: fsspec>=2023.5.0 in .\.venv\Lib\site-packages (from huggingface-hub<1.0,>=0.23.2->transformers==4.44.2) (2026.7.0)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in .\.venv\Lib\site-packages (from huggingface-hub<1.0,>=0.23.2->transformers==4.44.2) (4.16.0)
+Collecting click>=8.0 (from sacremoses>=0.1.1)
+  Using cached click-8.5.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting joblib>=1.2.0 (from sacremoses>=0.1.1)
+  Using cached joblib-1.6.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting cloudpickle>=3.0 (from joblib>=1.2.0->sacremoses>=0.1.1)
+  Using cached cloudpickle-3.1.2-py3-none-any.whl.metadata (7.1 kB)
+Collecting colorama (from tqdm>=4.27->transformers==4.44.2)
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting charset_normalizer<4,>=2 (from requests->transformers==4.44.2)
+  Using cached charset_normalizer-3.5.2-cp313-cp313-win_amd64.whl.metadata (47 kB)
+Collecting idna<4,>=2.5 (from requests->transformers==4.44.2)
+  Using cached idna-3.20-py3-none-any.whl.metadata (7.2 kB)
+Collecting urllib3<3,>=1.26 (from requests->transformers==4.44.2)
+  Using cached urllib3-2.8.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting certifi>=2023.5.7 (from requests->transformers==4.44.2)
+  Using cached certifi-2026.7.22-py3-none-any.whl.metadata (2.5 kB)
+Using cached transformers-4.44.2-py3-none-any.whl (9.5 MB)
+Using cached huggingface_hub-0.36.2-py3-none-any.whl (566 kB)
+Using cached sentencepiece-0.2.2-cp313-cp313-win_amd64.whl (1.2 MB)
+Using cached sacremoses-0.2.0-py3-none-any.whl (867 kB)
+Using cached click-8.5.0-py3-none-any.whl (125 kB)
+Using cached joblib-1.6.0-py3-none-any.whl (306 kB)
+Using cached cloudpickle-3.1.2-py3-none-any.whl (22 kB)
+Using cached numpy-2.5.3-cp313-cp313-win_amd64.whl (12.6 MB)
+Using cached packaging-26.3-py3-none-any.whl (129 kB)
+Using cached pyyaml-6.0.3-cp313-cp313-win_amd64.whl (154 kB)
+Using cached regex-2026.9.29-cp313-cp313-win_amd64.whl (280 kB)
+Using cached safetensors-0.8.0-cp310-abi3-win_amd64.whl (355 kB)
+Using cached tqdm-4.70.1-py3-none-any.whl (80 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Using cached requests-2.34.2-py3-none-any.whl (73 kB)
+Using cached charset_normalizer-3.5.2-cp313-cp313-win_amd64.whl (206 kB)
+Using cached idna-3.20-py3-none-any.whl (69 kB)
+Using cached urllib3-2.8.0-py3-none-any.whl (135 kB)
+Using cached certifi-2026.7.22-py3-none-any.whl (136 kB)
+Building wheels for collected packages: tokenizers
+  Building wheel for tokenizers (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Building wheel for tokenizers (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [130 lines of output]
+      Python reports SOABI: cp313-win_amd64
+      Computed rustc target triple: x86_64-pc-windows-msvc
+      Installation directory: C:\Users\UTILISATEUR\AppData\Local\puccinialin\puccinialin\Cache
+      Rustup already downloaded
+      Installing rust to C:\Users\UTILISATEUR\AppData\Local\puccinialin\puccinialin\Cache\rustup
+      warn: it looks like you have an existing rustup settings file at:
+      warn: C:\Users\UTILISATEUR\AppData\Local\puccinialin\puccinialin\Cache\rustup\settings.toml
+      info: profile set to minimal
+      info: setting default host tuple to x86_64-pc-windows-msvc
+      warn: Updating existing toolchain, profile choice will be ignored
+      info: syncing channel updates for stable-x86_64-pc-windows-msvc
+      info: default toolchain set to stable-x86_64-pc-windows-msvc
+      Checking if cargo is installed
+      cargo 1.99.0 (5f94df478 2026-08-27)
+      Rust not found, installing into a temporary directory
+      Running `maturin pep517 build-wheel -i C:\Users\UTILISATEUR\Downloads\Prema Kavali Full Hindi Dubbed Movie ¦ Aadi, Nassar, Brahmanandam\Prema_Kavali_traduction_integrale_automatique_Windows\.venv\Scripts\python.exe --compatibility off`
+      âš ï¸\x8f  Warning: `project.version` field is required in pyproject.toml unless it is present in the `project.dynamic` list
+      ðŸ\x8d¹ Building a mixed python/rust project
+      ðŸ\x90\x8d Found CPython 3.13 at C:\Users\UTILISATEUR\Downloads\Prema Kavali Full Hindi Dubbed Movie Â¦ Aadi, Nassar, Brahmanandam\Prema_Kavali_traduction_integrale_automatique_Windows\.venv\Scripts\python.exe
+      ðŸ”— Found pyo3 bindings
+      ðŸ“¡ Using build options features, bindings from pyproject.toml
+         Compiling proc-macro2 v1.0.81
+         Compiling unicode-ident v1.0.12
+         Compiling autocfg v1.2.0
+         Compiling target-lexicon v0.12.14
+         Compiling windows_x86_64_msvc v0.52.5
+         Compiling once_cell v1.19.0
+         Compiling cfg-if v1.0.0
+         Compiling libc v0.2.153
+         Compiling cc v1.0.94
+         Compiling crossbeam-utils v0.8.19
+         Compiling memchr v2.7.2
+         Compiling windows_x86_64_msvc v0.48.5
+         Compiling ident_case v1.0.1
+         Compiling fnv v1.0.7
+         Compiling strsim v0.10.0
+         Compiling portable-atomic v1.6.0
+         Compiling smallvec v1.13.2
+         Compiling serde v1.0.198
+         Compiling either v1.11.0
+         Compiling pkg-config v0.3.30
+         Compiling parking_lot_core v0.9.9
+         Compiling rayon-core v1.12.1
+         Compiling regex-syntax v0.8.3
+         Compiling paste v1.0.14
+         Compiling heck v0.4.1
+         Compiling scopeguard v1.2.0
+         Compiling anstyle v1.0.6
+         Compiling minimal-lexical v0.2.1
+         Compiling thiserror v1.0.58
+         Compiling unicode-width v0.1.11
+         Compiling ppv-lite86 v0.2.17
+         Compiling rawpointer v0.2.1
+         Compiling getrandom v0.2.14
+         Compiling serde_json v1.0.116
+         Compiling utf8parse v0.2.1
+         Compiling lazy_static v1.4.0
+         Compiling rand_core v0.6.4
+         Compiling encode_unicode v0.3.6
+         Compiling log v0.4.21
+         Compiling itertools v0.11.0
+         Compiling anstyle-parse v0.2.3
+         Compiling base64 v0.13.1
+         Compiling unindent v0.2.3
+         Compiling macro_rules_attribute-proc_macro v0.2.0
+         Compiling num-traits v0.2.18
+         Compiling lock_api v0.4.11
+         Compiling memoffset v0.9.1
+         Compiling matrixmultiply v0.3.8
+         Compiling windows-targets v0.52.5
+         Compiling rand_chacha v0.3.1
+         Compiling itoa v1.0.11
+         Compiling colorchoice v1.0.0
+         Compiling bitflags v1.3.2
+         Compiling ryu v1.0.17
+         Compiling aho-corasick v1.1.3
+         Compiling windows-sys v0.52.0
+         Compiling nom v7.1.3
+         Compiling indoc v2.0.5
+         Compiling unicode-segmentation v1.11.0
+         Compiling number_prefix v0.4.0
+         Compiling unicode-normalization-alignments v0.1.12
+         Compiling itertools v0.12.1
+         Compiling unicode_categories v0.1.1
+         Compiling humantime v2.1.0
+         Compiling windows-targets v0.48.5
+         Compiling rand v0.8.5
+         Compiling rustc-hash v1.1.0
+         Compiling onig_sys v69.8.1
+         Compiling esaxx-rs v0.1.10
+         Compiling anstyle-query v1.0.2
+         Compiling anstyle-wincon v3.0.2
+         Compiling regex-automata v0.4.6
+         Compiling console v0.15.8
+         Compiling quote v1.0.36
+         Compiling anstream v0.6.13
+         Compiling parking_lot v0.12.1
+         Compiling syn v2.0.60
+         Compiling pyo3-build-config v0.21.2
+         Compiling crossbeam-epoch v0.9.18
+         Compiling macro_rules_attribute v0.2.0
+         Compiling indicatif v0.17.8
+         Compiling crossbeam-deque v0.8.5
+         Compiling rayon v1.10.0
+         Compiling num-complex v0.4.5
+         Compiling num-integer v0.1.46
+         Compiling ndarray v0.15.6
+         Compiling pyo3-ffi v0.21.2
+         Compiling pyo3 v0.21.2
+      error: failed to run custom build command for `pyo3-ffi v0.21.2`
+
+      Caused by:
+        process didn't exit successfully: `C:\Users\UTILISATEUR\AppData\Local\Temp\pip-install-7stf_8m6\tokenizers_0deb804612bd4103bef975b97397b1f5\bindings\python\target\release\build\pyo3-ffi-e35e0f13248b9243\build-script-build` (exit code: 1)
+        --- stdout
+        cargo:rerun-if-env-changed=PYO3_CROSS
+        cargo:rerun-if-env-changed=PYO3_CROSS_LIB_DIR
+        cargo:rerun-if-env-changed=PYO3_CROSS_PYTHON_VERSION
+        cargo:rerun-if-env-changed=PYO3_CROSS_PYTHON_IMPLEMENTATION
+        cargo:rerun-if-env-changed=PYO3_PRINT_CONFIG
+        cargo:rerun-if-env-changed=PYO3_USE_ABI3_FORWARD_COMPATIBILITY
+
+        --- stderr
+        error: the configured Python interpreter version (3.13) is newer than PyO3's maximum supported version (3.12)
+        = help: please check if an updated version of PyO3 is available. Current version: 0.21.2
+        = help: set PYO3_USE_ABI3_FORWARD_COMPATIBILITY=1 to suppress this check and build anyway using the stable ABI
+      warning: build failed, waiting for other jobs to finish...
+      ðŸ’¥ maturin failed
+        Caused by: Failed to build a native library through cargo
+        Caused by: Cargo build finished with "exit code: 101": `"cargo" "rustc" "--profile" "release" "--features" "pyo3/extension-module" "--message-format" "json-render-diagnostics" "--manifest-path" "C:\\Users\\UTILISATEUR\\AppData\\Local\\Temp\\pip-install-7stf_8m6\\tokenizers_0deb804612bd4103bef975b97397b1f5\\bindings\\python\\Cargo.toml" "--lib"`
+      Error: command ['maturin', 'pep517', 'build-wheel', '-i', 'C:\\Users\\UTILISATEUR\\Downloads\\Prema Kavali Full Hindi Dubbed Movie ¦ Aadi, Nassar, Brahmanandam\\Prema_Kavali_traduction_integrale_automatique_Windows\\.venv\\Scripts\\python.exe', '--compatibility', 'off'] returned non-zero exit status 1
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for tokenizers
+Failed to build tokenizers
+error: failed-wheel-build-for-install
+
+× Failed to build installable wheels for some pyproject.toml based projects
+╰─> tokenizers
+Installation complete. Run: .\Traduire-Tout.ps1
+PS C:\Users\UTILISATEUR\Downloads\Prema Kavali Full Hindi Dubbed Movie ¦ Aadi, Nassar, Brahmanandam\Prema_Kavali_traduction_integrale_automatique_Windows>
