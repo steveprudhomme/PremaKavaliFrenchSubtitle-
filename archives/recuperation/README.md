@@ -6,7 +6,7 @@ Ce dossier conserve les éléments retrouvés dans la conversation « Vérifier 
 - [Inventaire des SRT](inventaire-srt.csv) : 88 références, doublons inclus, avec nombre de blocs, erreurs, avertissements, premiers/derniers temps et empreintes.
 - [Récit de la récupération](../../docs/historique/reprise-verifier-sous-titrage.md).
 
-Les noms sous `fichiers/` commencent par une partie du SHA-256 source. Les sources identiques sont dédupliquées. Pour retrouver un fichier, chercher son nom historique dans la colonne `source_archive_locale`, puis ouvrir `fichier_depot`. Le numéro de version dans un nom n'est pas une garantie de qualité.
+Les noms sous `fichiers/` commencent par une partie du SHA-256 source. Les copies de même contenu et de même nom simplifié sont dédupliquées; des fichiers de noms différents peuvent encore avoir la même empreinte. Pour retrouver un fichier, chercher son nom historique dans la colonne `source_archive_locale`, puis ouvrir `fichier_depot`. Le numéro de version dans un nom n'est pas une garantie de qualité.
 
 Les SRT et les images sont conservés octet pour octet. Les chemins de profil Windows dans les documents textuels utilisent maintenant `C:\Users\UTILISATEUR`; le BOM et les fins de ligne de ces documents peuvent aussi changer. Les deux empreintes sont indiquées. Aucun contenu manquant n'a été reconstruit.
 
